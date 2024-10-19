@@ -55,7 +55,8 @@ The API is documented using Swagger, making it easy to explore and test the endp
 http://localhost:3800/docs
 ```
 
-![image](https://github.com/user-attachments/assets/3b195ee2-7915-43f1-8b52-99682ea7247b)
+![image](https://github.com/user-attachments/assets/610f2f23-8032-4e48-946b-3502a5cfe00e)
+
 
 
 ## Running the Application
